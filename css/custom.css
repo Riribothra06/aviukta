@@ -2007,7 +2007,6 @@ body:has(.offcanvas){
 
 .project-image img{
 	width: 100%;
-	aspect-ratio: 1 / 0.8;
 	object-fit: cover;
 	border-radius: 30px;
 	transition: all 0.4s ease-in-out;
