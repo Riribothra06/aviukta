@@ -1,0 +1,1732 @@
+<!DOCTYPE html>
+<html lang="zxx">
+  <!-- Mirrored from html.awaikenthemes.com/artistic/index-image.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 Jun 2025 03:55:33 GMT -->
+  <head>
+    <?php include 'header.php';?>   
+  </head>
+
+  <body>
+
+    <!-- Hero Section Start-->
+    <div class="hero">
+      <!-- Video Start -->
+      <div class="hero-bg-video">
+        <!-- Selfhosted Video Start -->
+        <!-- <video autoplay muted loop id="myVideo"><source src="images/hero-bg-video.mp4" type="video/mp4"></video> -->
+        <video autoplay muted loop id="myVideo">
+          <source
+            src="https://demo.awaikenthemes.com/assets/videos/artistic-video.mp4"
+            type="video/mp4"
+          />
+        </video>
+        <!-- Selfhosted Video End -->
+
+        <!-- Youtube Video Start -->
+        <!-- <div id="herovideo" class="player" data-property="{videoURL:'74DWwSxsVSs',containment:'.hero-video', showControls:false, autoPlay:true, loop:true, vol:0, mute:false, startAt:0,  stopAt:296, opacity:1, addRaster:true, quality:'large', optimizeDisplay:true}"></div> -->
+        <!-- Youtube Video End -->
+      </div>
+      <!-- Video End -->
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <!-- Hero Content Start -->
+            <div class="hero-content">
+              <!-- Section Title Start -->
+              <div class="section-title">
+                <div class="typing-title">
+                  <p>Personal</p>
+                  <p>Unforgettable</p>
+                  <p>Iconic</p>
+                  <p>Brave</p>
+                </div>
+                <h1 class="text-anime-style-2" data-cursor="-opaque">
+                  Digital, But Make It <br />
+                  <span class="typed-title"></span>
+                </h1>
+              </div>
+              <!-- Section Title End -->
+
+              <!-- Hero Content Body Start -->
+              <div class="hero-content-body">
+                <!-- Hero Content Video Start -->
+                <div class="hero-content-video">
+                  <!-- Video Play Button Start -->
+                  <div class="video-play-button">
+                    <a
+                      href="https://www.youtube.com/watch?v=Y-x0efG1seA"
+                      class="popup-video"
+                      data-cursor-text="Play"
+                    >
+                      <i class="fa-solid fa-play"></i>
+                    </a>
+                  </div>
+                  <!-- Video Play Button End -->
+
+                  <!-- Learn More Circle Start -->
+                  <div class="learn-more-circle">
+                    <img src="images/learn-more-circle.svg" alt="" />
+                  </div>
+                  <!-- Learn More Circle End -->
+                </div>
+                <!-- Hero Content Video End -->
+
+                <!-- Hero Video Content Start -->
+                <div class="hero-video-content wow fadeInUp">
+                  <p>
+                    At Aviukta, we turn your brand into a digital experience
+                    that captivates, connects, and converts.
+                  </p>
+                  <p>
+                    From web designing to branding, we got your digital presence
+                    growing and glowing.
+                  </p>
+                  <p>Ready to stand out?</p>
+                </div>
+                <!-- Hero Video Content End -->
+              </div>
+              <!-- Hero Content Body End -->
+
+              <!-- Hero Button Start -->
+              <div class="hero-btn wow fadeInUp" data-wow-delay="0.25s">
+                <a href="contact.php" class="btn-default">
+                  Let's Build Magic</a
+                >
+              </div>
+              <!-- Hero Button End -->
+            </div>
+            <!-- Hero Content End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Hero Section End-->
+
+    <!-- Scrolling Ticker Section Start -->
+    <div class="our-scrolling-ticker">
+      <!-- Scrolling Ticker Start -->
+      <div class="scrolling-ticker-box">
+        <div class="scrolling-content">
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />Custom Web Dev</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />Scroll-Stopping
+            Design</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />Marketing, But
+            Clever</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />SEO That Works</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />Smart Socials</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />AI Web Builds</span
+          >
+        </div>
+
+        <div class="scrolling-content">
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />Custom Web Dev</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />Scroll-Stopping
+            Design</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />Marketing, But
+            Clever</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />SEO That Works</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />Smart Socials</span
+          >
+          <span
+            ><img src="images/asterisk-icon.svg" alt="" />AI Web Builds</span
+          >
+        </div>
+      </div>
+    </div>
+    <!-- Scrolling Ticker Section End -->
+
+    <!-- About Agency Section Start -->
+    <div class="about-agency">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <!-- About Agency Content Start -->
+            <div class="about-agency-content">
+              <!-- Section Title Start -->
+              <div class="section-title">
+                <h3 class="wow fadeInUp">About Us</h3>
+                <h2 class="text-anime-style-2" data-cursor="-opaque">
+                  From <span>Dream to Screen</span> We Build It All
+                </h2>
+                <p>
+                  Every great experience starts with a spark. At Aviukta, we
+                  take that spark — add our creativity, code and strategy — and
+                  set it on fire. We work with one goal in mind: To make your
+                  brand impossible to ignore. Think bold. Build louder. Your
+                  brand wasn’t made for the background — so let’s give it a
+                  stage. At Aviukta, we mix beauty with brains, pixels with
+                  purpose, and launch brands that actually do something.
+                </p>
+              </div>
+              <!-- Section Title End -->
+
+              <!-- Section btn Start -->
+              <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
+                <a href="about.php" class="btn-default">more about</a>
+              </div>
+              <!-- Section btn End -->
+            </div>
+            <!-- About Agency Content End -->
+          </div>
+
+          <div class="col-lg-6">
+            <!-- About Agency List Start -->
+            <div class="about-agency-list">
+              <!-- About Agency Item Start -->
+              <div class="about-agency-item wow fadeInUp">
+                <div class="icon-box">
+                  <img src="images/icon-about-agency-1.svg" alt="" />
+                </div>
+                <div class="agency-item-content">
+                  <h3>We Build Brands That Click (Literally).</h3>
+                  <p>
+                    From UX to SEO, every pixel is designed to convert. More
+                    leads. More clicks. More brand love.
+                  </p>
+                  <p>
+                    → Our clients have seen up to 2x increase in engagement
+                    post-launch.
+                  </p>
+                </div>
+              </div>
+              <!-- About Agency Item End -->
+
+              <!-- About Agency Item Start -->
+              <div class="about-agency-item wow fadeInUp" data-wow-delay="0.2s">
+                <div class="icon-box">
+                  <img src="images/icon-about-agency-2.svg" alt="" />
+                </div>
+                <div class="agency-item-content">
+                  <h3>End-to-End, No Loose Ends.</h3>
+                  <p>
+                    Strategy, code, content, launch — we’re your ride-or-die for
+                    the full brand glow-up.
+                  </p>
+                  <p>
+                    → Trusted by 30+ brands across countries for complete
+                    digital execution.
+                  </p>
+                </div>
+              </div>
+              <!-- About Agency Item End -->
+
+              <!-- About Agency Item Start -->
+              <div class="about-agency-item wow fadeInUp" data-wow-delay="0.4s">
+                <div class="icon-box">
+                  <img src="images/icon-about-agency-3.svg" alt="" />
+                </div>
+                <div class="agency-item-content">
+                  <h3>Pricing that’s sharp</h3>
+                  <p>
+                    We charge for value — not vanity. We only exploit
+                    creativity, not you.
+                  </p>
+                  <p>
+                    → Transparent pricing backed by deliverables that speak for
+                    themselves.
+                  </p>
+                </div>
+              </div>
+              <!-- About Agency Item End -->
+
+              <!-- About Agency Item Start -->
+              <div class="about-agency-item wow fadeInUp" data-wow-delay="0.6s">
+                <div class="icon-box">
+                  <img src="images/icon-about-agency-4.svg" alt="" />
+                </div>
+                <div class="agency-item-content">
+                  <h3>Built for Tomorrow, Today.</h3>
+                  <p>
+                    AI, automation, voice, Web 3 — yeah, we’re already there.
+                  </p>
+                  <p>
+                    → Stay ahead with future-ready builds powered by emerging
+                    tech.
+                  </p>
+                </div>
+              </div>
+              <!-- About Agency Item End -->
+            </div>
+            <!-- About Agency List End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- About Us Section End -->
+
+    <!-- Our Services Section Start -->
+    <div class="our-services">
+      <div class="container">
+        <div class="row section-row align-items-center">
+          <div class="col-lg-7">
+            <!-- Section Title Start -->
+            <div class="section-title">
+              <h3 class="wow fadeInUp">Our Services</h3>
+              <h2 class="text-anime-style-2" data-cursor="-opaque">
+                Your Growth Kit <br /><span> Designed </span> by Us
+              </h2>
+            </div>
+            <!-- Section Title End -->
+          </div>
+
+          <div class="col-lg-5">
+            <!-- Section Content Button Start -->
+            <div class="section-content-btn">
+              <!-- Section Title Content Start -->
+              <div
+                class="section-title-content wow fadeInUp"
+                data-wow-delay="0.2s"
+              >
+                <p>
+                  From strategy to shopify, from SEO to sales, we offer full-stack digital solutions for your brand. 
+                </p>
+              </div>
+              <!-- Section Title Content End -->
+
+              <!-- Section Button Start -->
+              <div class="section-btn wow fadeInUp" data-wow-delay="0.4s">
+                <a href="services.php" class="btn-default">all services</a>
+              </div>
+              <!-- Section Button End -->
+            </div>
+            <!-- Section Content Button End -->
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <!-- Service Item Start -->
+            <div class="service-item wow fadeInUp">
+              <!-- Service Item Header Start -->
+              <div class="service-item-header">
+                <div class="icon-box">
+                  <img src="images/our-services-icon/1.png" alt="" />
+                </div>
+
+                <div class="service-arrow">
+                  <a href="service-single.php"
+                    ><img src="images/arrow-accent.svg" alt=""
+                  /></a>
+                </div>
+              </div>
+              <!-- Service Item Header End -->
+
+              <!-- Service Item Body Start -->
+              <div class="service-item-body">
+                <h3>Branding and Identity</h3>
+                <p>
+                  <b>Make Your Brand Unmistakable.</b> <br />
+                  From logo to language, we help you define your brand’s voice,
+                  vibe, and visual identity — so you stand out, stand tall, and
+                  stay remembered.
+                </p>
+              </div>
+              <!-- Service Item Body End -->
+            </div>
+            <!-- Service Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Service Item Start -->
+            <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
+              <!-- Service Item Header Start -->
+              <div class="service-item-header">
+                <div class="icon-box">
+                  <img src="images/our-services-icon/2.png" alt="" />
+                </div>
+
+                <div class="service-arrow">
+                  <a href="/digital-marketing.php"
+                    ><img src="images/arrow-accent.svg" alt=""
+                  /></a>
+                </div>
+              </div>
+              <!-- Service Item Header End -->
+
+              <!-- Service Item Body Start -->
+              <div class="service-item-body">
+                <h3>Digital Marketing</h3>
+                <p>
+                  <b>Strategy That Sells, Not Just Shouts.</b><br />
+                  Strategy. Creativity. Visionary. At Aviukta, we don't follow
+                  trends — we set them.
+                </p>
+              </div>
+              <!-- Service Item Body End -->
+            </div>
+            <!-- Service Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Service Item Start -->
+            <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
+              <!-- Service Item Header Start -->
+              <div class="service-item-header">
+                <div class="icon-box">
+                  <img src="images/our-services-icon/3.png" alt="" />
+                </div>
+
+                <div class="service-arrow">
+                  <a href="service-single.php"
+                    ><img src="images/arrow-accent.svg" alt=""
+                  /></a>
+                </div>
+              </div>
+              <!-- Service Item Header End -->
+
+              <!-- Service Item Body Start -->
+              <div class="service-item-body">
+                <h3>Creative Content Production</h3>
+                <p>
+                  <b>Content That Connects (and Converts).</b><br />We make
+                  content that resonates and mesmerizes. Expect precision,
+                  progress and perfection which is open to criticisms.
+                </p>
+              </div>
+              <!-- Service Item Body End -->
+            </div>
+            <!-- Service Item End -->
+          </div>
+
+          <!-- <div class="col-lg-12">
+                    <div class="service-footer wow fadeInUp" data-wow-delay="0.25s">
+                        <p>Let's make something great work together. <a href="contact.php">get free quote</a></p>
+                    </div>
+                </div> -->
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <!-- Service Item Start -->
+            <div class="service-item wow fadeInUp">
+              <!-- Service Item Header Start -->
+              <div class="service-item-header">
+                <div class="icon-box">
+                  <img src="images/our-services-icon/4.png" alt="" />
+                </div>
+
+                <div class="service-arrow">
+                  <a href="/Website-Development.php"
+                    ><img src="images/arrow-accent.svg" alt=""
+                  /></a>
+                </div>
+              </div>
+              <!-- Service Item Header End -->
+
+              <!-- Service Item Body Start -->
+              <div class="service-item-body">
+                <h3>Web Development</h3>
+                <p>
+                  <b>Websites That Work as Hard as You Do.</b> <br />
+                  Built from scratch. Lightning-fast. Mobile-optimized.
+                  SEO-primed. Websites built to impress. Designed to outperform.
+                  Ready to dominate.
+                </p>
+              </div>
+              <!-- Service Item Body End -->
+            </div>
+            <!-- Service Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Service Item Start -->
+            <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
+              <!-- Service Item Header Start -->
+              <div class="service-item-header">
+                <div class="icon-box">
+                  <img src="images/our-services-icon/5.png" alt="" />
+                </div>
+
+                <div class="service-arrow">
+                  <a href="service-single.php"
+                    ><img src="images/arrow-accent.svg" alt=""
+                  /></a>
+                </div>
+              </div>
+              <!-- Service Item Header End -->
+
+              <!-- Service Item Body Start -->
+              <div class="service-item-body">
+                <h3>UI/UX Design</h3>
+                <p>
+                  <b>Design That Moves With Intent. </b><br />
+                  Beautiful interfaces, intuitive journeys. Aviukta designs
+                  experiences that attract attention — while earning loyaltyWe
+                  make your brands..our brands!
+                </p>
+              </div>
+              <!-- Service Item Body End -->
+            </div>
+            <!-- Service Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Service Item Start -->
+            <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
+              <!-- Service Item Header Start -->
+              <div class="service-item-header">
+                <div class="icon-box">
+                  <img src="images/our-services-icon/6.png" alt="" />
+                </div>
+
+                <div class="service-arrow">
+                  <a href="service-single.php"
+                    ><img src="images/arrow-accent.svg" alt=""
+                  /></a>
+                </div>
+              </div>
+              <!-- Service Item Header End -->
+
+              <!-- Service Item Body Start -->
+              <div class="service-item-body">
+                <h3>SEO & Performance</h3>
+                <p>
+                  <b>Get Found. Stay Chosen.</b><br />Without SEO, your site’s
+                  just shouting into the void. We make sure you’re found,
+                  followed, and favorited.
+                </p>
+              </div>
+              <!-- Service Item Body End -->
+            </div>
+            <!-- Service Item End -->
+          </div>
+
+          <!-- <div class="col-lg-12">
+                    <div class="service-footer wow fadeInUp" data-wow-delay="0.25s">
+                        <p>Let's make something great work together. <a href="contact.php">get free quote</a></p>
+                    </div>
+                </div> -->
+        </div>
+      </div>
+    </div>
+    <!-- Our Services Section End -->
+
+    <!-- Digital Success Section Start -->
+    <div class="digital-success">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <!-- Digital Success Box Start -->
+            <div class="digital-success-box">
+              <!-- Digital Success Content Start -->
+              <div class="digital-success-content">
+                <!-- Section Title Start -->
+                <div class="section-title">
+                  <h2 class="text-anime-style-2" data-cursor="-opaque">
+                    Real Expertise. Real Numbers. <span>Real Results.</span>
+                  </h2>
+                </div>
+                <!-- Section Title End -->
+
+                <!-- Success Counter Box Start -->
+                <div class="success-counter-box">
+                  <!-- Success Counter Item Start -->
+                  <div class="success-counter-item">
+                    <h2>+<span class="counter">60</span>%</h2>
+                    <h6><b> SEO that actually works</b></h6>
+                    <p>Better search = more eyeballs = more business</p>
+                  </div>
+                  <!-- Success Counter Item End -->
+
+                  <!-- Success Counter Item Start -->
+                  <div class="success-counter-item">
+                    <h2>+<span class="counter">30</span>%</h2>
+                    <h6>
+                      <b
+                        >UX that sells. Period.</b>
+                      
+                    </h6>
+                    <p>We turn visits into conversions</p>
+                  </div>
+                  <!-- Success Counter Item End -->
+                </div>
+                <!-- Success Counter Box End -->
+              </div>
+              <!-- Digital Success Content End -->
+
+              <div class="digital-success-list">
+                <div class="success-list-item wow fadeInUp">
+                  <h5>Social Media Management:</h5>
+                  <p>Your brand’s not boring — so why post like it is? Aviukta crafts content that scrolls smooth, sounds smart,
+                    and sells without screaming. Because we remember to add the
+                    FUN in FUNctional.
+                  </p>
+                </div>
+
+                <div
+                  class="success-list-item wow fadeInUp"
+                  data-wow-delay="0.25s"
+                >
+                  <h5>E-commerce Solutions:</h5>
+                  <p>From smooth storefronts to seamless checkout- we design shopping experiences that are fast, functional,
+                    and fun. Built to convert. Built to scale. Built for the win.</p>
+                </div>
+              </div>
+            </div>
+            <!-- Digital Success Box End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Digital Success Section End -->
+
+    <!-- Why Choose us Section Start -->
+    <div class="why-choose-us">
+      <div class="container">
+        <div class="row section-row align-items-center">
+          <div class="col-lg-7">
+            <!-- Section Title Start -->
+            <div class="section-title">
+              <h3 class="wow fadeInUp">why choose</h3>
+              <h2 class="text-anime-style-2" data-cursor="-opaque">
+                This Is Why Brands<br/> <span> Don’t Leave. </span>
+              </h2>
+            </div>
+            <!-- Section Title End -->
+          </div>
+
+          <div class="col-lg-5">
+            <!-- Section Title Content Start -->
+            <div
+              class="section-title-content wow fadeInUp"
+              data-wow-delay="0.25s"
+            >
+              <p>This Ain’t a One-Night Brand. We build websites and partnerships. Fast, bold and right — so
+                you don’t need to switch partners again and again.
+              </p>
+            </div>
+            <!-- Section Title Content End -->
+          </div>
+        </div>
+
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <!-- Why Choose Content Start -->
+            <div class="why-choose-content">
+              <!-- Why Choose Item Start -->
+              <div class="why-choose-item active wow fadeInUp">
+                <h3>Uniqueness Guaranteed</h3>
+                <p>
+                  We don’t recycle. We reinvent. Your brand deserves more than a
+                  copy-paste glow-up.
+                </p>
+              </div>
+              <!-- Why Choose Item End -->
+
+              <!-- Why Choose Item Start -->
+              <div class="why-choose-item wow fadeInUp" data-wow-delay="0.25s">
+                <h3>Pretty With a Paycheck</h3>
+                <p>
+                  Our work doesn’t just sit pretty. But it also clicks,
+                  converts, and cashes in.
+                </p>
+              </div>
+              <!-- Why Choose Item End -->
+
+              <!-- Why Choose Item Start -->
+              <div class="why-choose-item wow fadeInUp" data-wow-delay="0.5s">
+                <h3>Partners in (Creative) Crime</h3>
+                <p>
+                  We don’t just build. We co-create. We collaborate. We care.
+                </p>
+              </div>
+
+              <!-- Why Choose Item End -->
+              <!-- Why Choose Item Start -->
+              <div class="why-choose-item wow fadeInUp" data-wow-delay="0.5s">
+                <h3>Speed Meets Art</h3>
+                <p>
+                  We work fast, but never sloppy. You’ll get elegance without
+                  the endless waiting.
+                </p>
+              </div>
+
+              <!-- Why Choose Item End -->
+            </div>
+            <!-- Why Choose Content End -->
+          </div>
+
+          <div class="col-lg-6">
+            <!-- Why Choose Image Start -->
+            <div class="why-choose-image">
+              <figure class="image-anime reveal">
+                <img src="images/why-choose-image.jpg" alt="" />
+              </figure>
+            </div>
+            <!-- Why Choose Image End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Why Choose us Section End -->
+
+    <!-- Join Agency Section Start -->
+    <div class="join-agency">
+      <div class="container">
+        <div class="row section-row align-items-center">
+          <div class="col-lg-7">
+            <!-- Section Title Start -->
+            <div class="section-title">
+              <h3 class="wow fadeInUp">join agency</h3>
+              <h2 class="text-anime-style-2" data-cursor="-opaque">
+                 Creativity   Lives Here <br />
+               <span> You Should Too </span>
+              </h2>
+            </div>
+            <!-- Section Title End -->
+          </div>
+          <div class="col-lg-5">
+            <!-- Section Title Content Start -->
+            <div
+              class="section-title-content wow fadeInUp"
+              data-wow-delay="0.25s"
+            >
+              <p>
+                This is more than content—it’s where conversations catch fire, collabs happen fast, and controlled chaos fuels real innovation. If you're building, dreaming, or doing—it starts here.
+              </p>
+            </div>
+            <!-- Section Title Content End -->
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <!-- Agency Social Item Start -->
+            <div class="agency-social-item wow fadeInUp">
+              <!-- Icon Box Start -->
+              <div class="icon-box">
+                <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+              </div>
+              <!-- Icon Box End -->
+
+              <!-- Agency Social Content Start -->
+              <div class="agency-social-content">
+                <h3>Follow us on Twitter</h3>
+                <!-- <p>@artistic_official</p> -->
+              </div>
+              <!-- Agency Social Content End -->
+
+              <!-- Social Readmore Button Start -->
+              <div class="agency-social-btn">
+                <a href="contact.php" class="readmore-btn"
+                  ><img src="images/arrow-white.svg" alt=""
+                /></a>
+              </div>
+              <!-- Social Readmore Button End -->
+            </div>
+            <!-- Agency Social Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Agency Social Item Start -->
+            <div class="agency-social-item wow fadeInUp" data-wow-delay="0.25s">
+              <!-- Icon Box Start -->
+              <div class="icon-box">
+                <a href="https://www.linkedin.com/company/aviukta/"><i class="fa-brands fa-linkedin-in"></i></a>
+              </div>
+              <!-- Icon Box End -->
+
+              <!-- Agency Social Content Start -->
+              <div class="agency-social-content">
+                <h3>Join us on Linked in</h3>
+                <!-- <p>user.artistic_official</p> -->
+              </div>
+              <!-- Agency Social Content End -->
+
+              <!-- Social Readmore Button Start -->
+              <div class="agency-social-btn">
+                <a href="https://www.linkedin.com/company/aviukta/" class="readmore-btn"
+                  ><img src="images/arrow-white.svg" alt=""
+                /></a>
+              </div>
+              <!-- Social Readmore Button End -->
+            </div>
+            <!-- Agency Social Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Agency Social Item Start -->
+            <div class="agency-social-item wow fadeInUp" data-wow-delay="0.5s">
+              <!-- Icon Box Start -->
+              <div class="icon-box">
+                <a href="https://www.instagram.com/aviuktaa"><i class="fa-brands fa-instagram"></i></a>
+              </div>
+              <!-- Icon Box End -->
+
+              <!-- Agency Social Content Start -->
+              <div class="agency-social-content">
+                <h3>Follow on Instagram</h3>
+                <!-- <p>@artistic_insta_official</p> -->
+              </div>
+              <!-- Agency Social Content End -->
+
+              <!-- Social Readmore Button Start -->
+              <div class="agency-social-btn">
+                <a href="https://www.instagram.com/aviuktaa" class="readmore-btn"
+                  ><img src="images/arrow-white.svg" alt=""
+                /></a>
+              </div>
+              <!-- Social Readmore Button End -->
+            </div>
+            <!-- Agency Social Item End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Join Agency Section End -->
+
+    <!-- How It Work Section Start -->
+    <div class="how-it-work">
+      <div class="container">
+        <div class="row section-row align-items-center">
+          <div class="col-lg-7">
+            <!-- Section Title Start -->
+            <div class="section-title">
+              <h3 class="wow fadeInUp">How We Work</h3>
+              <h2 class="text-anime-style-2" data-cursor="-opaque">
+                The  <span> Glow-Up </span>process
+              </h2>
+            </div>
+            <!-- Section Title End -->
+          </div>
+          <div class="col-lg-5">
+            <!-- Section Title Content Start -->
+            <div
+              class="section-title-content wow fadeInUp"
+              data-wow-delay="0.25s"
+            >
+              <p>Here’s What Happens When You Work With Us.</p>
+              <p>
+                We guide you through every step — from understanding your
+                audience to launching something that turns heads and drives
+                clicks.
+              </p>
+            </div>
+            <!-- Section Title Content End -->
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <!-- Work Process Item Start -->
+            <div class="work-process-item wow fadeInUp">
+              <!-- Work Process Header Start -->
+              <div class="work-process-header">
+                <!-- Work Process Title Start -->
+                <div class="work-process-title">
+                  <h3>We listen first.</h3>
+                </div>
+                <!-- Work Process Title End -->
+
+                <!-- Work Process Button Start -->
+                <div class="work-process-btn">
+                  <a href="contact.php" class="readmore-btn"
+                    ><img src="images/arrow-white.svg" alt=""
+                  /></a>
+                </div>
+                <!-- Work Process Button End -->
+              </div>
+              <!-- Work Process Header End -->
+
+              <!-- Work Process Content Start -->
+              <div class="work-process-content">
+                <p>
+                  We dive into your goals, brand voice, and what’s keeping your
+                  audience up at night. Insights > assumptions.
+                </p>
+              </div>
+              <!-- Work Process Content End -->
+
+              <!-- Work Process Body Start -->
+              <div class="work-process-body">
+                <!-- Work Process Number Start -->
+                <div class="work-process-no">
+                  <h3>step</h3>
+                  <h2>01</h2>
+                </div>
+                <!-- Work Process Number End -->
+
+                <!-- Work Process Icon Box Start -->
+                <div class="work-process-icon-box">
+                  <img src="images/how-we-work-Icon/7.png" alt="" />
+                </div>
+                <!-- Work Process Icon Box End -->
+              </div>
+              <!-- Work Process Body End -->
+            </div>
+            <!-- Work Process Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Work Process Item Start -->
+            <div class="work-process-item wow fadeInUp" data-wow-delay="0.25s">
+              <!-- Work Process Header Start -->
+              <div class="work-process-header">
+                <!-- Work Process Title Start -->
+                <div class="work-process-title">
+                  <h3>Brainstorming</h3>
+                </div>
+                <!-- Work Process Title End -->
+
+                <!-- Work Process Button Start -->
+                <div class="work-process-btn">
+                  <a href="contact.php" class="readmore-btn"
+                    ><img src="images/arrow-white.svg" alt=""
+                  /></a>
+                </div>
+                <!-- Work Process Button End -->
+              </div>
+              <!-- Work Process Header End -->
+
+              <!-- Work Process Content Start -->
+              <div class="work-process-content">
+                <p>
+                  We sit and stretegize until we have a roadmap that actually
+                  leads somewhere.
+                </p>
+              </div>
+              <!-- Work Process Content End -->
+
+              <!-- Work Process Body Start -->
+              <div class="work-process-body">
+                <!-- Work Process Number Start -->
+                <div class="work-process-no">
+                  <h3>step</h3>
+                  <h2>02</h2>
+                </div>
+                <!-- Work Process Number End -->
+
+                <!-- Work Process Icon Box Start -->
+                <div class="work-process-icon-box">
+                  <img src="images/icon-work-process-2.svg" alt="" />
+                </div>
+                <!-- Work Process Icon Box End -->
+              </div>
+              <!-- Work Process Body End -->
+            </div>
+            <!-- Work Process Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Work Process Item Start -->
+            <div class="work-process-item wow fadeInUp" data-wow-delay="0.5s">
+              <!-- Work Process Header Start -->
+              <div class="work-process-header">
+                <!-- Work Process Title Start -->
+                <div class="work-process-title">
+                  <h3>Creativity meets code.</h3>
+                </div>
+                <!-- Work Process Title End -->
+
+                <!-- Work Process Button Start -->
+                <div class="work-process-btn">
+                  <a href="contact.php" class="readmore-btn"
+                    ><img src="images/arrow-white.svg" alt=""
+                  /></a>
+                </div>
+                <!-- Work Process Button End -->
+              </div>
+              <!-- Work Process Header End -->
+
+              <!-- Work Process Content Start -->
+              <div class="work-process-content">
+                <p>
+                  From UI/UX to custom development, everything is crafted to
+                  look beautiful and perform like a beast.
+                </p>
+              </div>
+              <!-- Work Process Content End -->
+
+              <!-- Work Process Body Start -->
+              <div class="work-process-body">
+                <!-- Work Process Number Start -->
+                <div class="work-process-no">
+                  <h3>step</h3>
+                  <h2>03</h2>
+                </div>
+                <!-- Work Process Number End -->
+
+                <!-- Work Process Icon Box Start -->
+                <div class="work-process-icon-box">
+                  <img src="images/icon-work-process-3.svg" alt="" />
+                </div>
+                <!-- Work Process Icon Box End -->
+              </div>
+              <!-- Work Process Body End -->
+            </div>
+            <!-- Work Process Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Work Process Item Start -->
+            <div class="work-process-item wow fadeInUp">
+              <!-- Work Process Header Start -->
+              <div class="work-process-header">
+                <!-- Work Process Title Start -->
+                <div class="work-process-title">
+                  <h3>Hello world. Hello impact.</h3>
+                </div>
+                <!-- Work Process Title End -->
+
+                <!-- Work Process Button Start -->
+                <div class="work-process-btn">
+                  <a href="contact.php" class="readmore-btn"
+                    ><img src="images/arrow-white.svg" alt=""
+                  /></a>
+                </div>
+                <!-- Work Process Button End -->
+              </div>
+              <!-- Work Process Header End -->
+
+              <!-- Work Process Content Start -->
+              <div class="work-process-content">
+                <p>
+                  Your brand goes live — with marketing fuel, launch support,
+                  and momentum that matters
+                </p>
+              </div>
+              <!-- Work Process Content End -->
+
+              <!-- Work Process Body Start -->
+              <div class="work-process-body">
+                <!-- Work Process Number Start -->
+                <div class="work-process-no">
+                  <h3>step</h3>
+                  <h2>04</h2>
+                </div>
+                <!-- Work Process Number End -->
+
+                <!-- Work Process Icon Box Start -->
+                <div class="work-process-icon-box">
+                  <img src="images/icon-work-process-1.svg" alt="" />
+                </div>
+                <!-- Work Process Icon Box End -->
+              </div>
+              <!-- Work Process Body End -->
+            </div>
+            <!-- Work Process Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Work Process Item Start -->
+            <div class="work-process-item wow fadeInUp" data-wow-delay="0.25s">
+              <!-- Work Process Header Start -->
+              <div class="work-process-header">
+                <!-- Work Process Title Start -->
+                <div class="work-process-title">
+                  <h3>We don’t disappear. We double down.</h3>
+                </div>
+                <!-- Work Process Title End -->
+
+                <!-- Work Process Button Start -->
+                <div class="work-process-btn">
+                  <a href="contact.php" class="readmore-btn"
+                    ><img src="images/arrow-white.svg" alt=""
+                  /></a>
+                </div>
+                <!-- Work Process Button End -->
+              </div>
+              <!-- Work Process Header End -->
+
+              <!-- Work Process Content Start -->
+              <div class="work-process-content">
+                <p>
+                  Post-launch, we test, tweak, and scale what works — so your
+                  digital presence grows with you
+                </p>
+              </div>
+              <!-- Work Process Content End -->
+
+              <!-- Work Process Body Start -->
+              <div class="work-process-body">
+                <!-- Work Process Number Start -->
+                <div class="work-process-no">
+                  <h3>step</h3>
+                  <h2>05</h2>
+                </div>
+                <!-- Work Process Number End -->
+
+                <!-- Work Process Icon Box Start -->
+                <div class="work-process-icon-box">
+                  <img src="images/icon-work-process-2.svg" alt="" />
+                </div>
+                <!-- Work Process Icon Box End -->
+              </div>
+              <!-- Work Process Body End -->
+            </div>
+            <!-- Work Process Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Work Process Item Start -->
+            <div class="work-process-item wow fadeInUp" data-wow-delay="0.5s">
+              <!-- Work Process Header Start -->
+              <div class="work-process-header">
+                <!-- Work Process Title Start -->
+                <div class="work-process-title">
+                  <h3>Partners, not vendors</h3>
+                </div>
+                <!-- Work Process Title End -->
+
+                <!-- Work Process Button Start -->
+                <div class="work-process-btn">
+                  <a href="contact.php" class="readmore-btn"
+                    ><img src="images/arrow-white.svg" alt=""
+                  /></a>
+                </div>
+                <!-- Work Process Button End -->
+              </div>
+              <!-- Work Process Header End -->
+
+              <!-- Work Process Content Start -->
+              <div class="work-process-content">
+                <p>
+                  We believe in long-term collaboration, not one-and-done
+                  projects. Think of us as an extension of your team — invested
+                  in your success and ready to evolve with your vision.
+                </p>
+              </div>
+              <!-- Work Process Content End -->
+
+              <!-- Work Process Body Start -->
+              <div class="work-process-body">
+                <!-- Work Process Number Start -->
+                <div class="work-process-no">
+                  <h3>step</h3>
+                  <h2>06</h2>
+                </div>
+                <!-- Work Process Number End -->
+
+                <!-- Work Process Icon Box Start -->
+                <div class="work-process-icon-box">
+                  <img src="images/icon-work-process-3.svg" alt="" />
+                </div>
+                <!-- Work Process Icon Box End -->
+              </div>
+              <!-- Work Process Body End -->
+            </div>
+            <!-- Work Process Item End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- How we Work Section End -->
+
+    <!-- Our Portfolio Section Start -->
+    <div class="our-portfolio">
+      <div class="container">
+        <div class="row section-row align-items-center">
+          <div class="col-lg-7">
+            <!-- Section Title Start -->
+            <div class="section-title">
+              <h3 class="wow fadeInUp">portfolio</h3>
+              <h2 class="text-anime-style-2" data-cursor="-opaque">
+                See <span>How We Turn </span> <br />
+                Ideas into Icons
+              </h2>
+            </div>
+            <!-- Section Title End -->
+          </div>
+
+          <div class="col-lg-5">
+            <!-- Section Title Content Start -->
+            <div
+              class="section-title-content wow fadeInUp"
+              data-wow-delay="0.25s"
+            >
+              <p>
+                Everything you see here was once just a half-baked idea. Look at
+                them now, all grown up and glowing
+              </p>
+            </div>
+            <!-- Section Title Content End -->
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+            <!-- Choose Our Project Nav start -->
+            <div class="our-Project-nav wow fadeInUp" data-wow-delay="0.25s">
+              <ul>
+                <li><a href="#" class="active-btn" data-filter="*">all</a></li>
+                <li>
+                  <a href="#" data-filter=".branding">Branding & Identity</a>
+                </li>
+                <li><a href="#" data-filter=".web">Web Design</a></li>
+                <li>
+                  <a href="#" data-filter=".digital">Digital Marketing</a>
+                </li>
+                <li>
+                  <a href="#" data-filter=".analytics">SEO & Analytics</a>
+                </li>
+              </ul>
+            </div>
+            <!-- Choose Our Project Nav End -->
+          </div>
+
+          <div class="col-lg-12">
+            <!-- Project Item Boxes start -->
+            <div class="row project-item-boxes align-items-center">
+              <div
+                class="col-lg-4 col-md-6 project-item-box branding web analytics"
+              >
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp">
+                  <div class="project-image">
+                    <figure class="image-anime">
+                      <img src="images/flurth.png" alt="" />
+                    </figure>
+
+                    <div class="project-tag">
+                      <a href="project-single.php">web design</a>
+                    </div>
+
+                    <div class="project-btn">
+                      <a href="project-single.php"
+                        ><img src="images/arrow-white.svg" alt=""
+                      /></a>
+                    </div>
+                  </div>
+
+                  <div class="project-content">
+                    <h3>Flurth</h3>
+                  </div>
+                </div>
+                <!-- Project Item End -->
+              </div>
+
+              <div class="col-lg-4 col-md-6 project-item-box web digital urban">
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp">
+                  <div class="project-image">
+                    <figure class="image-anime">
+                      <img src="images/amal-jewels.png" alt="" />
+                    </figure>
+
+                    <div class="project-tag">
+                      <a href="project-single.php">digital marketing</a>
+                    </div>
+
+                    <div class="project-btn">
+                      <a href="project-single.php"
+                        ><img src="images/arrow-white.svg" alt=""
+                      /></a>
+                    </div>
+                  </div>
+
+                  <div class="project-content">
+                    <h3>Amal Jewels</h3>
+                  </div>
+                </div>
+                <!-- Project Item End -->
+              </div>
+
+              <div class="col-lg-4 col-md-6 project-item-box digital analytics">
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp" data-wow-delay="0.2s">
+                  <div class="project-image">
+                    <figure class="image-anime">
+                      <img src="images/shareera.png" alt="" />
+                    </figure>
+
+                    <div class="project-tag">
+                      <a href="project-single.php">SEO & analytics</a>
+                    </div>
+
+                    <div class="project-btn">
+                      <a href="project-single.php"
+                        ><img src="images/arrow-white.svg" alt=""
+                      /></a>
+                    </div>
+                  </div>
+
+                  <div class="project-content">
+                    <h3>Shareera</h3>
+                  </div>
+                </div>
+                <!-- Project Item End -->
+              </div>
+
+              <div
+                class="col-lg-4 col-md-6 project-item-box branding analytics"
+              >
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp" data-wow-delay="0.4s">
+                  <div class="project-image">
+                    <figure class="image-anime">
+                      <img src="images/amorada.png" alt="" />
+                    </figure>
+
+                    <div class="project-tag">
+                      <a href="project-single.php">branding & identity</a>
+                    </div>
+
+                    <div class="project-btn">
+                      <a href="project-single.php"
+                        ><img src="images/arrow-white.svg" alt=""
+                      /></a>
+                    </div>
+                  </div>
+
+                  <div class="project-content">
+                    <h3>Amorada</h3>
+                  </div>
+                </div>
+                <!-- Project Item End -->
+              </div>
+
+              <div
+                class="col-lg-4 col-md-6 project-item-box web service branding"
+              >
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp" data-wow-delay="0.6s">
+                  <div class="project-image">
+                    <figure class="image-anime">
+                      <img src="images/psy.png" alt="" />
+                    </figure>
+
+                    <div class="project-tag">
+                      <a href="project-single.php">web design</a>
+                    </div>
+
+                    <div class="project-btn">
+                      <a href="project-single.php"
+                        ><img src="images/arrow-white.svg" alt=""
+                      /></a>
+                    </div>
+                  </div>
+
+                  <div class="project-content">
+                    <h3>Paudhe Se Yaari</h3>
+                  </div>
+                </div>
+                <!-- Project Item End -->
+              </div>
+
+              <div class="col-lg-4 col-md-6 project-item-box digital">
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp" data-wow-delay="0.8s">
+                  <div class="project-image">
+                    <figure class="image-anime">
+                      <img src="images/majestic-minds.png" alt="" />
+                    </figure>
+
+                    <div class="project-tag">
+                      <a href="project-single.php">branding & identity</a>
+                    </div>
+
+                    <div class="project-btn">
+                      <a href="project-single.php"
+                        ><img src="images/arrow-white.svg" alt=""
+                      /></a>
+                    </div>
+                  </div>
+
+                  <div class="project-content">
+                    <h3>majestic minds</h3>
+                  </div>
+                </div>
+                <!-- Project Item End -->
+              </div>
+            </div>
+            <!-- Project Item Boxes End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Our Portfolio Section End -->
+
+    <!-- Our Testimonial Section Start -->
+    <div class="our-testimonial">
+      <div class="container">
+        <div class="row section-row align-items-center">
+          <div class="col-lg-7">
+            <!-- Section Title Start -->
+            <div class="section-title">
+              <h3 class="wow fadeInUp">testimonials</h3>
+              <h2 class="text-anime-style-2" data-cursor="-opaque">
+                Our Work <span>Their Words</span>
+              </h2>
+            </div>
+            <!-- Section Title End -->
+          </div>
+
+          <div class="col-lg-5">
+            <!-- Section Content Button Start -->
+            <div class="section-content-btn">
+              <!-- Section Title Content Start -->
+              <div
+                class="section-title-content wow fadeInUp"
+                data-wow-delay="0.2s"
+              >
+                <p>
+                  Discover how our clients have achieved success through our
+                  innovative solutions and dedicated support.
+                </p>
+              </div>
+              <!-- Section Title Content End -->
+
+              <!-- Section Button Start -->
+              <div class="section-btn wow fadeInUp" data-wow-delay="0.4s">
+                <a href="testimonial.php" class="btn-default"
+                  >all testimonials</a
+                >
+              </div>
+              <!-- Section Button End -->
+            </div>
+            <!-- Section Content Button End -->
+          </div>
+        </div>
+
+        <div class="row align-items-center">
+          
+        <?php include 'testimonial-section.php'; ?>
+          <div class="col-lg-12">
+            <!-- Testimonial Benefits Box Start -->
+            <div class="testimonial-benefits-box">
+              <!-- Testimonial Benefits Item Start -->
+              <div class="testimonial-benefits-item wow fadeInUp">
+                <div class="icon-box">
+                  <img src="images/icon-testimonial-benefits-1.svg" alt="" />
+                </div>
+                <div class="testimonial-benefits-content">
+                  <h3>Flexible Pricing</h3>
+                  <ul>
+                    <li>Pay only for what you need.</li>
+                    <!-- <li>Flexible rates</li> -->
+                  </ul>
+                </div>
+              </div>
+              <!-- Testimonial Benefits Item End -->
+
+              <!-- Testimonial Benefits Item Start -->
+              <div
+                class="testimonial-benefits-item wow fadeInUp"
+                data-wow-delay="0.2s"
+              >
+                <div class="icon-box">
+                  <img src="images/icon-testimonial-benefits-2.svg" alt="" />
+                </div>
+                <div class="testimonial-benefits-content">
+                  <h3>Open Access</h3>
+                  <ul>
+                    <li>Integrate and scale freely.</li>
+                    <!-- <li>Run your own nodes</li> -->
+                  </ul>
+                </div>
+              </div>
+              <!-- Testimonial Benefits Item End -->
+
+              <!-- Testimonial Benefits Item Start -->
+              <div
+                class="testimonial-benefits-item wow fadeInUp"
+                data-wow-delay="0.4s"
+              >
+                <div class="icon-box">
+                  <img src="images/icon-testimonial-benefits-3.svg" alt="" />
+                </div>
+                <div class="testimonial-benefits-content">
+                  <h3>Full Security</h3>
+                  <ul>
+                    <li>Your data, fully protected.</li>
+                    <!-- <li>360 Security</li> -->
+                  </ul>
+                </div>
+              </div>
+              <!-- Testimonial Benefits Item End -->
+
+              <!-- Testimonial Benefits Item Start -->
+              <div
+                class="testimonial-benefits-item wow fadeInUp"
+                data-wow-delay="0.6s"
+              >
+                <div class="icon-box">
+                  <img src="images/icon-testimonial-benefits-4.svg" alt="" />
+                </div>
+                <div class="testimonial-benefits-content">
+                  <h3>24 X 7 Support</h3>
+                  <ul>
+                    <li>Real help Anytime.</li>
+                    <!-- <li>Ticket systems</li> -->
+                  </ul>
+                </div>
+              </div>
+              <!-- Testimonial Benefits Item End -->
+            </div>
+            <!-- Testimonial Benefits Box End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Our Testimonial Section End -->
+
+    <!-- Agency Benefits Section Start -->
+    <div class="agency-benefits">
+      <div class="container">
+        <div class="row section-row align-items-center">
+          <div class="col-lg-7">
+            <!-- Section Title Start -->
+            <div class="section-title">
+              <h3 class="wow fadeInUp">Our mission</h3>
+              <h2 class="text-anime-style-2" data-cursor="-opaque">
+                To make your <span>Brand  Unforgettable</span>
+              </h2>
+            </div>
+            <!-- Section Title End -->
+          </div>
+
+          <div class="col-lg-5">
+            <!-- Section Title Content Start -->
+            <div
+              class="section-title-content wow fadeInUp"
+              data-wow-delay="0.25s"
+            >
+              <p>
+                We believe in building brands that don’t just exist — they connect, resonate, and last. Everything we create is rooted in strategy, driven by emotion, and crafted to perform.
+              </p>
+            </div>
+            <!-- Section Title Content End -->
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-6">
+            <!-- Benefits Steps Item Start -->
+            <div class="benefits-steps-item wow fadeInUp">
+              <div class="benefits-steps-no">
+                <h3>01</h3>
+              </div>
+
+              <div class="icon-box">
+                <img src="images/icon-benefits-steps-1.svg" alt="" />
+              </div>
+
+              <div class="benefits-steps-content">
+                <h3>We Build to Inspire</h3>
+                <p>We design websites that don’t just function — they spark interest, trust, and action from the first click.</p>
+              </div>
+            </div>
+            <!-- Benefits Steps Item End -->
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <!-- Benefits Steps Item Start -->
+            <div class="benefits-steps-item wow fadeInUp" data-wow-delay="0.2s">
+              <div class="benefits-steps-no">
+                <h3>02</h3>
+              </div>
+
+              <div class="icon-box">
+                <img src="images/icon-benefits-steps-2.svg" alt="" />
+              </div>
+
+              <div class="benefits-steps-content">
+                <h3>We Market with Meaning</h3>
+                <p>
+                  We craft marketing that feels less like a pitch and more like a conversation — seamless, smart, and human.
+                </p>
+              </div>
+            </div>
+            <!-- Benefits Steps Item End -->
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <!-- Benefits Steps Item Start -->
+            <div class="benefits-steps-item wow fadeInUp" data-wow-delay="0.4s">
+              <div class="benefits-steps-no">
+                <h3>03</h3>
+              </div>
+
+              <div class="icon-box">
+                <img src="images/icon-benefits-steps-1.svg" alt="" />
+              </div>
+
+              <div class="benefits-steps-content">
+                <h3>We Design to Attract (and Keep)</h3>
+                <p>
+                  Our digital experiences don’t chase attention — they earn it. Every element is designed to pull people in and keep them engaged.
+                </p>
+              </div>
+            </div>
+            <!-- Benefits Steps Item End -->
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <!-- Benefits Steps Item Start -->
+            <div class="benefits-steps-item wow fadeInUp" data-wow-delay="0.6s">
+              <div class="benefits-steps-no">
+                <h3>04</h3>
+              </div>
+
+              <div class="icon-box">
+                <img src="images/icon-benefits-steps-4.svg" alt="" />
+              </div>
+
+              <div class="benefits-steps-content">
+                <h3>We Deliver with Purpose</h3>
+                <p>
+                  Every pixel, word, and workflow is intentional — built to make your brand seen, remembered, and impossible to ignore.
+                </p>
+              </div>
+            </div>
+            <!-- Benefits Steps Item End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Agency Benefits Section End -->
+
+    <!-- Our Blog Section Start -->
+    <div class="our-blog">
+      <div class="container">
+        <div class="row section-row align-items-center">
+          <?php include 'blog-section.php'; ?>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <!-- Post Item Start -->
+            <div class="post-item wow fadeInUp">
+              <!-- Post Featured Image Start-->
+              <div class="post-featured-image">
+                <figure>
+                  <a
+                    href="blog-single.php"
+                    class="image-anime"
+                    data-cursor-text="View"
+                  >
+                    <img src="images/post-1.jpg" alt="" />
+                  </a>
+                </figure>
+              </div>
+              <!-- Post Featured Image End -->
+
+              <!-- Post Item Body Start -->
+              <div class="post-item-body">
+                <!-- Post Item Content Start -->
+                <div class="post-item-content">
+                  <h3>
+                    <a href="blog-single.php"
+                      >UI/UX Design Principles for Better User Engagement</a
+                    >
+                  </h3>
+                </div>
+                <!-- Post Item Content End -->
+
+                <!-- Post Item Readmore Button Start-->
+                <div class="post-item-btn">
+                  <a href="blog-single.php">read more</a>
+                </div>
+                <!-- Post Item Readmore Button End-->
+              </div>
+              <!-- Post Item Body End -->
+            </div>
+            <!-- Post Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Post Item Start -->
+            <div class="post-item wow fadeInUp" data-wow-delay="0.2s">
+              <!-- Post Featured Image Start-->
+              <div class="post-featured-image">
+                <figure>
+                  <a
+                    href="blog-single.php"
+                    class="image-anime"
+                    data-cursor-text="View"
+                  >
+                    <img src="images/post-2.jpg" alt="" />
+                  </a>
+                </figure>
+              </div>
+              <!-- Post Featured Image End -->
+
+              <!-- Post Item Body Start -->
+              <div class="post-item-body">
+                <!-- Post Item Content Start -->
+                <div class="post-item-content">
+                  <h3>
+                    <a href="blog-single.php"
+                      >Why Your Business Needs a Mobile-Optimized Website</a
+                    >
+                  </h3>
+                </div>
+                <!-- Post Item Content End -->
+
+                <!-- Post Item Readmore Button Start-->
+                <div class="post-item-btn">
+                  <a href="blog-single.php">read more</a>
+                </div>
+                <!-- Post Item Readmore Button End-->
+              </div>
+              <!-- Post Item Body End -->
+            </div>
+            <!-- Post Item End -->
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <!-- Post Item Start -->
+            <div class="post-item wow fadeInUp" data-wow-delay="0.4s">
+              <!-- Post Featured Image Start-->
+              <div class="post-featured-image">
+                <figure>
+                  <a
+                    href="blog-single.php"
+                    class="image-anime"
+                    data-cursor-text="View"
+                  >
+                    <img src="images/post-3.jpg" alt="" />
+                  </a>
+                </figure>
+              </div>
+              <!-- Post Featured Image End -->
+
+              <!-- Post Item Body Start -->
+              <div class="post-item-body">
+                <!-- Post Item Content Start -->
+                <div class="post-item-content">
+                  <h3>
+                    <a href="blog-single.php"
+                      >Content Marketing Essentials for Growing Your Brand</a
+                    >
+                  </h3>
+                </div>
+                <!-- Post Item Content End -->
+
+                <!-- Post Item Readmore Button Start-->
+                <div class="post-item-btn">
+                  <a href="blog-single.php">read more</a>
+                </div>
+                <!-- Post Item Readmore Button End-->
+              </div>
+              <!-- Post Item Body End -->
+            </div>
+            <!-- Post Item End -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Our Blog Section End -->
+<?php include 'footer.php'; ?>
+  </body>
+
+  <!-- Mirrored from html.awaikenthemes.com/artistic/index-image.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 Jun 2025 03:55:33 GMT -->
+</html>

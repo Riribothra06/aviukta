@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<!-- Mirrored from html.awaikenthemes.com/artistic/services.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 Jun 2025 03:55:38 GMT -->
+<head>
+    <?php include 'header.php';?>   
+  </head>
+
+<body>
+    <!-- Page Header Start -->
+    <div class="page-header">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <!-- Page Header Box Start -->
+                    <div class="page-header-box">
+                        <h1 class="text-anime-style-2" data-cursor="-opaque">Ctrl + <span> Create</span></h1>
+                        <nav class="wow fadeInUp">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="index.php">home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">services</li>
+                            </ol>
+                        </nav>
+                    </div>
+                    <!-- Page Header Box End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+    <!-- Scrolling Ticker Section Start -->
+    <div class="our-scrolling-ticker subpages-scrolling-ticker">
+        <!-- Scrolling Ticker Start -->
+        <div class="scrolling-ticker-box">
+            <div class="scrolling-content">
+                <span><img src="images/asterisk-icon.svg" alt="">Magic</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Engineered.</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Experiences</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Delivered.</span>
+                 <span><img src="images/asterisk-icon.svg" alt="">Magic</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Engineered.</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Experiences</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Delivered.</span>
+                  <span><img src="images/asterisk-icon.svg" alt="">Magic</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Engineered.</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Experiences</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Delivered.</span>
+            </div>
+
+            <div class="scrolling-content">
+                <span><img src="images/asterisk-icon.svg" alt="">Magic</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Engineered.</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Experiences</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Delivered.</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Magic</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Engineered.</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Experiences</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Delivered.</span>
+                  <span><img src="images/asterisk-icon.svg" alt="">Magic</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Engineered.</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Experiences</span>
+                <span><img src="images/asterisk-icon.svg" alt="">Delivered.</span>
+            </div>
+        </div>
+    </div>
+    <!-- Scrolling Ticker Section End -->
+
+    <!-- Page Services Start -->
+    <div class="page-services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp">
+                        <!-- Service Item Header Start -->
+                        <div class="service-item-header">
+                            <div class="icon-box">
+                                <img src="images/comment-code.svg" alt="">
+                            </div>
+
+                            <div class="service-arrow">
+                                <a href="branding-Identity.php"><img src="images/arrow-accent.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- Service Item Header End -->
+
+                        <!-- Service Item Body Start -->
+                        <div class="service-item-body">
+                            <h3>Branding & Identity</h3>
+                            <ul>
+                                <li>A brand isn’t just how you look — it’s how you’re remembered.</li>
+                                <li>Voice, visuals, and vibe, all in sync.</li>
+                                <li>Built to grow, not just to launch.</li>
+                            </ul>
+                        </div>
+                        <!-- Service Item Body End -->
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
+                        <!-- Service Item Header Start -->
+                        <div class="service-item-header">
+                            <div class="icon-box">
+                                <img src="images/6.png" alt="">
+                            </div>
+
+                            <div class="service-arrow">
+                                <a href="digital-marketing.php"><img src="images/arrow-accent.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- Service Item Header End -->
+
+                        <!-- Service Item Body Start -->
+                        <div class="service-item-body">
+                            <h3>Digital Marketing</h3>
+                            <ul>
+                                <li>Strategies that feel natural and effortless.</li>
+                                <li>SEO, ads, and content that actually do their job.</li>
+                                <li>No guesswork. Just results.</li>
+                            </ul>
+                        </div>
+                        <!-- Service Item Body End -->
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="1s">
+                        <!-- Service Item Header Start -->
+                        <div class="service-item-header">
+                            <div class="icon-box">
+                                <img src="images/icon-service-6.svg" alt="">
+                            </div>
+
+                            <div class="service-arrow">
+                                <a href="creative-content-production.php"><img src="images/arrow-accent.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- Service Item Header End -->
+
+                        <!-- Service Item Body Start -->
+                        <div class="service-item-body">
+                            <h3>Creative Content Production</h3>
+                            <ul>
+                                <li>Words and visuals with power and personality.</li>
+                                <li>Made to stop the scroll, and stay in your head.</li>
+                                <li>Built for engagement, not just aesthetics.</li>
+                            </ul>
+                        </div>
+                        <!-- Service Item Body End -->
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
+                        <!-- Service Item Header Start -->
+                        <div class="service-item-header">
+                            <div class="icon-box">
+                                <img src="images/icon-service-3.svg" alt="">
+                            </div>
+
+                            <div class="service-arrow">
+                                <a href="web-development.php"><img src="images/arrow-accent.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- Service Item Header End -->
+
+                        <!-- Service Item Body Start -->
+                        <div class="service-item-body">
+                            <h3>Web Development</h3>
+                            <ul>
+                                <li>Fast, responsive, and fully custom.</li>
+                                <li>From e-comm builds to portfolio sites.</li>
+                                <li>Designed to convert, not just exist.</li>
+                            </ul>
+                        </div>
+                        <!-- Service Item Body End -->
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="0.6s">
+                        <!-- Service Item Header Start -->
+                        <div class="service-item-header">
+                            <div class="icon-box">
+                                <img src="images/icon-service-4.svg" alt="">
+                            </div>
+
+                            <div class="service-arrow">
+                                <a href="ui-design.php"><img src="images/arrow-accent.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- Service Item Header End -->
+
+                        <!-- Service Item Body Start -->
+                        <div class="service-item-body">
+                            <h3>UX/UI Design</h3>
+                            <ul>
+                                <li>Interfaces that just… make sense.</li>
+                                <li>Intuitive flows that don’t make people think twice.</li>
+                                <li>Looks good. Feels better.</li>
+                            </ul>
+                        </div>
+                        <!-- Service Item Body End -->
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
+                        <!-- Service Item Header Start -->
+                        <div class="service-item-header">
+                            <div class="icon-box">
+                                <img src="images/icon-service-5.svg" alt="">
+                            </div>
+
+                            <div class="service-arrow">
+                                <a href="performance-growth.php"><img src="images/arrow-accent.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- Service Item Header End -->
+
+                        <!-- Service Item Body Start -->
+                        <div class="service-item-body">
+                            <h3>Performance & Growth</h3>
+                            <ul>
+                                <li>Post-launch care that actually cares.</li>
+                                <li>Optimisations, updates, and calculated experiments.</li>
+                                <li>Because growth isn’t a phase — it’s the plan.</li>
+                            </ul>
+                        </div>
+                        <!-- Service Item Body End -->
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Page Services End -->
+
+    <!-- Who We Are Start -->
+    <div class="who-we-are service-we-are">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Who We Are Content Start -->
+                    <div class="who-we-are-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">Launch fast. Launch fierce.</h3>
+                            <h2 class="text-anime-style-2">Your website shouldn’t just exist — it should <span> own the
+                                    space</span> it’s in.</h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">At Aviukta, we carefully craft customized
+                                masterpieces designed to turn visitors into loyal customers.
+                                Let us help you to not just launch- but lead.</p>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- Experts Rating Video Start -->
+                        <div class="experts-rating-video">
+                            <!-- Experts Rating Video Image Start -->
+                            <div class="experts-rating-video-image">
+                                <!-- Video Image Start -->
+                                <div class="video-image">
+                                    <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video"
+                                        data-cursor-text="Play">
+                                        <figure class="image-anime">
+                                            <img src="images/experts-rating-video-bg.jpg" alt="">
+                                        </figure>
+                                    </a>
+                                </div>
+                                <!-- Video Image End -->
+
+                                <!-- Video Play Button Start -->
+                                <div class="video-play-button">
+                                    <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video"
+                                        data-cursor-text="Play">
+                                        <i class="fa-solid fa-play"></i>
+                                    </a>
+                                </div>
+                                <!-- Video Play Button End -->
+                            </div>
+                            <!-- Experts Rating Video Image End -->
+
+                            <!-- Who We Are Company Client Start -->
+                            <div class="who-we-are-client">
+                                <div class="comapny-client-rating">
+                                    <ul>
+                                        <li>
+                                            <i class="fa-solid fa-star"></i>
+                                            <i class="fa-solid fa-star"></i>
+                                            <i class="fa-solid fa-star"></i>
+                                            <i class="fa-solid fa-star"></i>
+                                            <i class="fa-solid fa-star"></i>
+                                        </li>
+                                    </ul>
+                                    <p>( <span class="counter">40</span>+ Reviews)</p>
+                                </div>
+
+                                <!-- Company Client Images Start -->
+                                <div class="company-client-images">
+                                    <div class="client-image">
+                                        <figure class="image-anime reveal">
+                                            <img src="images/satisfy-client-img-1.jpg" alt="">
+                                        </figure>
+                                    </div>
+                                    <div class="client-image">
+                                        <figure class="image-anime reveal">
+                                            <img src="images/satisfy-client-img-2.jpg" alt="">
+                                        </figure>
+                                    </div>
+                                    <div class="client-image">
+                                        <figure class="image-anime reveal">
+                                            <img src="images/satisfy-client-img-3.jpg" alt="">
+                                        </figure>
+                                    </div>
+                                    <div class="client-image">
+                                        <figure class="image-anime reveal">
+                                            <img src="images/satisfy-client-img-4.jpg" alt="">
+                                        </figure>
+                                    </div>
+                                    <div class="client-image">
+                                        <figure class="image-anime reveal">
+                                            <img src="images/satisfy-client-img-5.jpg" alt="">
+                                        </figure>
+                                    </div>
+                                </div>
+                                <!-- Company Client Images End -->
+
+                                <!-- Contact Now Button Start -->
+                                <div class="contact-now-btn wow fadeInUp">
+                                    <a href="contact.php" class="contact-btn">contact now</a>
+                                </div>
+                                <!-- Contact Now Button End -->
+                            </div>
+                            <!-- Who We Are Company Client End -->
+                        </div>
+                        <!-- Experts Rating Video End -->
+                    </div>
+                    <!-- Who We Are Content End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Experts Counter List Start -->
+                    <div class="experts-counters-list">
+                        <!-- Experts Counter Box Start -->
+                        <div class="experts-counter-box expert-box-1">
+                            <!-- Experts Counter Item Start -->
+                            <div class="experts-counter-item">
+                                <div class="icon-box">
+                                    <img src="images/icon-who-we-are-counter-1.svg" alt="">
+                                </div>
+                                <div class="experts-counter-content">
+                                    <h2><span class="counter">35</span>k+</h2>
+                                    <p>Happy Customer Around the Word</p>
+                                </div>
+                            </div>
+                            <!-- Experts Counter Item End -->
+
+                            <!-- Experts Counter Item Start -->
+                            <div class="experts-counter-item">
+                                <div class="icon-box">
+                                    <img src="images/icon-who-we-are-counter-3.svg" alt="">
+                                </div>
+                                <div class="experts-counter-content">
+                                    <h2><span class="counter">250</span>+</h2>
+                                    <p>trusted best partners and sponsers</p>
+                                </div>
+                            </div>
+                            <!-- Experts Counter Item End -->
+                        </div>
+                        <!-- Experts Counter Box End -->
+
+                        <!-- Experts Counter Box Start -->
+                        <div class="experts-counter-box expert-box-2">
+                            <!-- Experts Counter Item Start -->
+                            <div class="experts-counter-item">
+                                <div class="icon-box">
+                                    <img src="images/icon-who-we-are-counter-2.svg" alt="">
+                                </div>
+                                <div class="experts-counter-content">
+                                    <h2><span class="counter">120</span>+</h2>
+                                    <p>best client support award achieved</p>
+                                </div>
+                            </div>
+                            <!-- Experts Counter Item End -->
+
+                            <!-- Experts Counter Item Start -->
+                            <div class="experts-counter-item">
+                                <div class="icon-box">
+                                    <img src="images/icon-who-we-are-counter-4.svg" alt="">
+                                </div>
+                                <div class="experts-counter-content">
+                                    <h2><span class="counter">5</span>k+</h2>
+                                    <p>active users using our best services</p>
+                                </div>
+                            </div>
+                            <!-- Experts Counter Item End -->
+                        </div>
+                        <!-- Experts Counter Box End -->
+                    </div>
+                    <!-- Experts Counter List End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Who We Are End -->
+
+    <!-- Why Choose us Section Start -->
+    <div class="why-choose-us">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-7">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">How We Roll</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">You bring the vision. <br> We’ll bring it
+                            to <span>life.</span> </h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-5">
+                    <!-- Section Title Content Start -->
+                    <div class="section-title-content wow fadeInUp" data-wow-delay="0.25s">
+                        <p>At Aviukta, we take time to understand your brand, your goals, and what truly matters — then
+                            we build something that does more than just look good. It works, it connects, and it grows
+                            with you.</p>
+                    </div>
+                    <!-- Section Title Content End -->
+                </div>
+            </div>
+
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <h2>What’s It Like to Work With Us?</h2><br />
+                    <!-- Why Choose Content Start -->
+                    <div class="why-choose-content">
+                        <!-- Why Choose Item Start -->
+                        <div class="why-choose-item active wow fadeInUp">
+                            <h3>Dream It</h3>
+                            <p><i>Where ideas take shape.</i></p>
+                            <p>We start by understanding your goals, audience, and brand voice — so every decision we
+                                make is rooted in what matters most to you.</p>
+                        </div>
+                        <!-- Why Choose Item End -->
+
+                        <!-- Why Choose Item Start -->
+                        <div class="why-choose-item wow fadeInUp" data-wow-delay="0.25s">
+                            <h3>Build It</h3>
+                            <p><i>Design meets direction.</i></p>
+                            <p>From wireframes to final lines of code, we craft digital experiences that look sharp,
+                                work flawlessly, and stay true to your brand.</p>
+                        </div>
+                        <!-- Why Choose Item End -->
+
+                        <!-- Why Choose Item Start -->
+                        <div class="why-choose-item wow fadeInUp" data-wow-delay="0.5s">
+                            <h3>Launch It</h3>
+                            <p><i>Go live, go big.</i></p>
+                            <p>We launch with intention — testing, fine-tuning, and making sure everything shines. And
+                                yes, we’re still here after launch for the post-glow support.</p>
+                        </div>
+                        <!-- Why Choose Item End -->
+                    </div>
+                    <!-- Why Choose Content End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Why Choose Image Start -->
+                    <div class="why-choose-image">
+                        <figure class="image-anime reveal">
+                            <img src="images/why-choose-image.jpg" alt="">
+                        </figure>
+                    </div>
+                    <!-- Why Choose Image End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Why Choose us Section End -->
+
+    <!-- Our Testimonial Section Start -->
+    <div class="our-testimonial">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-7">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">testimonials</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">
+                            Our Work <span>Their Words</span>
+                        </h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-5">
+                    <!-- Section Content Button Start -->
+                    <div class="section-content-btn">
+                        <!-- Section Title Content Start -->
+                        <div class="section-title-content wow fadeInUp" data-wow-delay="0.2s">
+                            <p>
+                                Discover how our clients have achieved success through our
+                                innovative solutions and dedicated support.
+                            </p>
+                        </div>
+                        <!-- Section Title Content End -->
+
+                        <!-- Section Button Start -->
+                        <div class="section-btn wow fadeInUp" data-wow-delay="0.4s">
+                            <a href="testimonial.php" class="btn-default">all testimonials</a>
+                        </div>
+                        <!-- Section Button End -->
+                    </div>
+                    <!-- Section Content Button End -->
+                </div>
+            </div>
+
+            <div class="row align-items-center">
+          <?php include 'testimonial-section.php'; ?>
+                
+
+                <div class="col-lg-12">
+                    <div class="row section-row align-items-center ">
+                        <div style="margin-top: 6rem;" class="col-lg-7 ">
+                            <!-- Section Title Start -->
+                            <div class="section-title">
+                                <h2 class="text-anime-style-2">But <span>Why Us</span> Tho?</h2>
+                            </div>
+                            <!-- Section Title End -->
+                        </div>
+                        <!-- Testimonial Benefits Box Start -->
+                        <div style="margin-top: 50px" class="testimonial-benefits-box">
+                            <!-- Testimonial Benefits Item Start -->
+                            <div class="testimonial-benefits-item wow fadeInUp">
+                                <div class="icon-box">
+                                    <img src="images/icon-testimonial-benefits-1.svg" alt="">
+                                </div>
+                                <div class="testimonial-benefits-content">
+                                    <h3>Strategy First.</h3>
+                                    <ul>
+                                        <li>We don’t guess — we research and design with intent.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- Testimonial Benefits Item End -->
+
+                            <!-- Testimonial Benefits Item Start -->
+                            <div class="testimonial-benefits-item wow fadeInUp" data-wow-delay="0.2s">
+                                <div class="icon-box">
+                                    <img src="images/icon-testimonial-benefits-2.svg" alt="">
+                                </div>
+                                <div class="testimonial-benefits-content">
+                                    <h3>Customized Creativity</h3>
+                                    <ul>
+                                        <li>Hand-built, brand-matched, and future-ready. </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- Testimonial Benefits Item End -->
+
+                            <!-- Testimonial Benefits Item Start -->
+                            <div class="testimonial-benefits-item wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="icon-box">
+                                    <img src="images/icon-testimonial-benefits-3.svg" alt="">
+                                </div>
+                                <div class="testimonial-benefits-content">
+                                    <h3>Speed Meets Style.</h3>
+                                    <ul>
+                                        <li>Fast-loading, high-performing, and designed to impress.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- Testimonial Benefits Item End -->
+
+                            <!-- Testimonial Benefits Item Start -->
+                            <div class="testimonial-benefits-item wow fadeInUp" data-wow-delay="0.6s">
+                                <div class="icon-box">
+                                    <img src="images/icon-testimonial-benefits-4.svg" alt="">
+                                </div>
+                                <div class="testimonial-benefits-content">
+                                    <h3>Conversion Is the Mission.</h3>
+                                    <ul>
+                                        <li>We don’t just attract visitors — we turn them into loyal clients.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- Testimonial Benefits Item End -->
+                        </div>
+                        <!-- Testimonial Benefits Box End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Our Testimonial Section End -->
+
+        <?php include 'footer.php'; ?>
+        
+</body>
+
+<!-- Mirrored from html.awaikenthemes.com/artistic/services.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 Jun 2025 03:55:39 GMT -->
+
+</html>
