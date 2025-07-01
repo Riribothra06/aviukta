@@ -1,15 +1,17 @@
 document.addEventListener("DOMContentLoaded", function () {
     function loadHTML(id, url, callback) {
-  fetch(url)
-    .then(response => response.text())
-    .then(data => {
-      document.getElementById(id).innerHTML = data;
-      if (callback) callback();
-    });
-}
+        var el = document.getElementById(id);
+        if (!el) return; // Only load if the element exists
+        fetch(url)
+            .then(response => response.text())
+            .then(data => {
+                el.innerHTML = data;
+                if (callback) callback();
+            });
+    }
 
-  loadHTML("header", "header.html");
-  loadHTML("testimonial", "testimonial-section.html", function() {
+    loadHTML("header", "header.html");
+    loadHTML("testimonial", "testimonial-section.html", function() {
         // Initialize Swiper (if you have a Swiper slider in testimonial)
         if (typeof Swiper !== "undefined") {
             new Swiper('.testimonial-slider .swiper', {
@@ -22,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 spaceBetween: 30,
             });
         }
-        // Initialize CounterUp
+        // Initialize CounterUp for counters in testimonial
         if (typeof jQuery !== "undefined" && typeof jQuery.fn.counterUp !== "undefined") {
             jQuery('.counter').counterUp({
                 delay: 10,
@@ -34,8 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
             new WOW().init();
         }
     });
-  loadHTML("footer", "footer.html");
-  loadHTML("blogsection", "blog-section.html");
-  loadHTML("servicesidebar", "service-sidebar.html");
-  });
-        // <div id="testimonial"></div>
+    loadHTML("footer", "footer.html");
+    loadHTML("blogsection", "blog-section.html");
+    loadHTML("servicesidebar", "service-sidebar.html");
+});
