@@ -122,9 +122,9 @@
 	}
 
 	/* Init Counter */
-	// if ($('.counter').length) {
-	// 	$('.counter').counterUp({ delay: 6, time: 3000 });
-	// }
+	if ($('.counter').length) {
+		$('.counter').counterUp({ delay: 6, time: 3000 });
+	}
 
 	/* Image Reveal Animation */
 	if ($('.reveal').length) {
@@ -371,14 +371,3 @@
 	/* Why Choose us active End */
 	
 })(jQuery);
-$(document).ready(function() {
-    $('.counter').each(function() {
-        var $this = $(this);
-        $this.waypoint(function() {
-            if (!$this.hasClass('counted')) {
-                $this.addClass('counted');
-                $this.counterUp({ delay: 10, time: 1000 });
-            }
-        }, { offset: 'bottom-in-view' });
-    });
-});
