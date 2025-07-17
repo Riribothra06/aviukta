@@ -7879,3 +7879,12 @@ body:has(.offcanvas){
         height: 350px;
     }
 }
+
+/* kundan CSS */
+.icon-box-threads a img {
+  transition: filter 0.3s ease;
+}
+
+.icon-box-threads a:hover img {
+  filter: brightness(0) invert(1); /* makes image appear white */
+}
