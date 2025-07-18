@@ -7889,6 +7889,22 @@ body:has(.offcanvas){
   filter: brightness(0) invert(1); /* makes image appear white */
 }
 
+.work-process-slider .swiper-wrapper {
+  align-items: stretch;
+  display: flex;
+}
+.work-process-slider .swiper-slide {
+  display: flex;
+  height: auto;
+  align-items: stretch;
+}
+.work-process-item {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
 .custom-toggler {
   border: 2px solid #fff !important;
 }
