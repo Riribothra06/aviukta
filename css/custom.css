@@ -5859,7 +5859,7 @@ body:has(.offcanvas){
 	}
 
 	.why-choose-image img{
-		aspect-ratio: 1 / 0.73;
+		aspect-ratio: 1 / 1;
 	}
 
 	.join-agency{
