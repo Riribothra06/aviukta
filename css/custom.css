@@ -1476,7 +1476,7 @@ body:has(.offcanvas){
 
 .why-choose-image img{
 	width: 100%;
-	aspect-ratio: 1 / 0.93;
+	aspect-ratio: 1 / 1;
 	object-fit: cover;
 	border-radius: 30px;
 }
@@ -7885,6 +7885,38 @@ body:has(.offcanvas){
   transition: filter 0.3s ease;
 }
 
-.icon-box-threads a:hover img {
+.agency-social-item:hover .icon-box-threads a img {
   filter: brightness(0) invert(1); /* makes image appear white */
+}
+
+.custom-toggler {
+  border: 2px solid #fff !important;
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.main-menu {
+  text-align: right;
+}
+@media (max-width: 500px) {
+  .container {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+  .navbar-brand img {
+    width: 32vw !important;
+    min-width: 80px;
+    max-width: 120px;
+  }
+  .custom-toggler {
+    margin-left: 8px;
+  }
+ 
+}
+
+@media (max-width: 980px) {
+ .main-menu .nav-menu-wrapper{text-align: right!important;}
+  .main-menu .nav-menu-wrapper > ul {align-items: flex-end!important;}
+  .main-menu ul li.nav-item a {padding-right: 0px !important;}
+  .navbar-collapse {background: var(--secondary-color) !important;padding: 15px;margin-top: 15px;}
 }
