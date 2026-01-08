@@ -564,7 +564,7 @@
 
                 var submitBtn = $('#submitCareerBtn');
                 var msgSubmit = $('#msgCareerSubmit');
-                var originalBtnText = submitBtn.text();
+                var originalBtnText = submitBtn.html();
 
                 // Validate file size
                 var fileInput = document.getElementById('resume');
@@ -580,60 +580,70 @@
                 }
 
                 // Disable button and show loading
-                submitBtn.prop('disabled', true).text('Submitting...');
+                submitBtn.prop('disabled', true).html('<span>Submitting...</span>');
                 msgSubmit.removeClass('text-success text-danger').addClass('hidden');
 
-                // Get form data with file
+                // Get form data
                 var formData = new FormData(this);
 
-                // AJAX request
-                $.ajax({
-                    url: 'submit_career.php',
-                    type: 'POST',
-                    data: formData,
-                    processData: false,
-                    contentType: false,
-                    dataType: 'json',
-                    success: function (response) {
-                        if (response.success) {
+                // Prepare data for webhook
+                var webhookData = {
+                    form_type: 'Career Application',
+                    full_name: formData.get('full_name'),
+                    email: formData.get('email'),
+                    phone: formData.get('phone'),
+                    position: formData.get('position'),
+                    linkedin: formData.get('linkedin') || '',
+                    portfolio: formData.get('portfolio') || '',
+                    experience: formData.get('experience'),
+                    location: formData.get('location'),
+                    cover_letter: formData.get('cover_letter'),
+                    resume_filename: fileInput.files.length > 0 ? fileInput.files[0].name : '',
+                    submitted_at: new Date().toISOString(),
+                    timestamp: Date.now()
+                };
+
+                // Send to Make.com webhook
+                fetch('https://hook.eu1.make.com/dvbxdu0p9jb3651fjywi8k1qithb1l33', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(webhookData)
+                })
+                    .then(response => {
+                        if (response.ok) {
                             // Success message
                             msgSubmit
                                 .removeClass('hidden text-danger')
                                 .addClass('text-success')
-                                .html('<i class="fa fa-check-circle"></i> ' + response.message);
+                                .html('<i class="fa fa-check-circle"></i> Thank you for applying! We have received your application and will review it shortly. We\'ll get back to you within 48 hours.');
 
                             // Reset form
                             $('#careerForm')[0].reset();
+                            $('#file-name').text('Choose File');
+                            $('.file-upload-label').removeClass('file-selected');
 
                             // Hide message after 7 seconds
                             setTimeout(function () {
                                 msgSubmit.addClass('hidden');
                             }, 7000);
                         } else {
-                            // Error message
-                            var errorMsg = response.message;
-                            if (response.errors && response.errors.length > 0) {
-                                errorMsg += '<br>' + response.errors.join('<br>');
-                            }
-                            msgSubmit
-                                .removeClass('hidden text-success')
-                                .addClass('text-danger')
-                                .html('<i class="fa fa-exclamation-circle"></i> ' + errorMsg);
+                            throw new Error('Submission failed');
                         }
-                    },
-                    error: function (xhr, status, error) {
-                        // AJAX error
+                    })
+                    .catch(error => {
+                        // Error message
                         msgSubmit
                             .removeClass('hidden text-success')
                             .addClass('text-danger')
                             .html('<i class="fa fa-exclamation-circle"></i> An error occurred. Please try again.');
                         console.error('Error:', error);
-                    },
-                    complete: function () {
+                    })
+                    .finally(() => {
                         // Re-enable button
-                        submitBtn.prop('disabled', false).text(originalBtnText);
-                    }
-                });
+                        submitBtn.prop('disabled', false).html(originalBtnText);
+                    });
             });
         });
     </script>
